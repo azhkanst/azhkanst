@@ -6,8 +6,6 @@ I like tinkering and post random projects here, but game developing is my main p
 
 <img src="https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png" width="150" height="125">
 
-
-
 ~ Computer Science Student ~
 - 🔭 I’m currently working on making Path tracing using C
 - 💬 Ask me about game development
@@ -15,6 +13,7 @@ I like tinkering and post random projects here, but game developing is my main p
 - ⚡ Fun fact: Dark Souls 3 > Elden Ring
 
 [My Repositories!](https://github.com/Gattskii?tab=repositories)
+
 [Youtube](https://www.youtube.com/@gatts6217/videos)  
 <!--
 **Gattskii/Gattskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
