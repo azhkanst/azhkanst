@@ -1,6 +1,6 @@
 ## Welcome to my crib 🛌
 
-Grab some tea or cola, i'm yo boy, gattsy waggy.
+*Grab some tea or cola, i'm yo boy, gattsy waggy*
 
 I like tinkering and making random projects here, but game developing is my first passion. I share some of my projects here that you can also tinker with! Yes let's be Tinker from dota and tinker tinkering tink tunkering.
 
