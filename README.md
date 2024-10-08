@@ -12,9 +12,11 @@ I like tinkering and post random projects here, but game developing is my main p
 - 📫 How to reach me: gattskii@gmail.com *(not primary email !!)*
 - ⚡ Fun fact: Dark Souls 3 > Elden Ring
 
-[My Repositories!](https://github.com/Gattskii?tab=repositories)
+Projects:
+[repos!](https://github.com/Gattskii?tab=repositories)
 
-[Youtube](https://www.youtube.com/@gatts6217/videos)  
+Youtube:
+[channel!](https://www.youtube.com/@gatts6217/videos)  
 <!--
 **Gattskii/Gattskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
