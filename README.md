@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my crib 🛌
+
+Grab some tea or cola, i just like to make projects to develop my learnings and just do funni stuff. Thankyou, arigato.
 
 <!--
 **Gattskii/Gattskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
