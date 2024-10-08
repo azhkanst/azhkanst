@@ -4,6 +4,10 @@
 
 I like tinkering and making random projects here, but game developing is my first passion. I share some of my projects here that you can also tinker with! Yes let's be Tinker from dota and tinker tinkering tink tunkering.
 
+~ Undergraduate in Computer Science ~
+
+
+
 <img src="https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png" width="150" height="125">
 
 
