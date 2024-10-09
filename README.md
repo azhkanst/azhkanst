@@ -7,7 +7,7 @@ I like tinkering and post random projects here, but game developing is my main p
 <img src="https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png" width="150" height="125">
 
 ~ Computer Science Student ~
-- 🔭 I’m currently working on making Path tracing using C
+- 🔭 I’m currently working on making Ray Tracing using C++
 - 💬 Ask me about game development
 - 📫 How to reach me: gattskii@gmail.com *(not primary email !!)*
 - ⚡ Fun fact: Dark Souls 3 > Elden Ring
