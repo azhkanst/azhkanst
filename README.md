@@ -2,7 +2,7 @@
 
 *Grab some tea or cola, i'm yo boy, gattsy waggy*
 
-I like tinkering and post random projects here, but game developing is my main passion. I share some of my projects here that you can also tinker with! Yes let's be Tinker from dota and tinker tinkering tink.
+I like tinkering and post random projects here, but developing is my main passion. I share some of my projects here that you can also tinker with! Yes let's be Tinker from dota and tinker tinkering tink.
 
 <img src="https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png" width="150" height="125">
 
