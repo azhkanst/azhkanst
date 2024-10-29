@@ -12,10 +12,12 @@ I like tinkering and post random projects here, but game developing is my main p
 - 📫 How to reach me: gattskii@gmail.com *(not primary email !!)*
 - ⚡ Fun fact: Dark Souls 3 > Elden Ring
 
-Projects:
+## Projects
 Github: [repos!](https://github.com/Gattskii?tab=repositories)
-Other Projects: [canva!]([https://github.com/Gattskii?tab=repositories](https://www.canva.com/design/DAGS7DyVRVY/lUrrfgdusiYrJ_HXHMAkkg/edit?utm_content=DAGS7DyVRVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
+Canva: [portfolio!](https://www.canva.com/design/DAGS7DyVRVY/lUrrfgdusiYrJ_HXHMAkkg/edit?utm_content=DAGS7DyVRVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Socials
 Youtube:
 [channel!](https://www.youtube.com/@gatts6217/videos)  
 <!--
