@@ -3,7 +3,7 @@
 Hi! I'm currently a 3rd-year Computer Science student at University. I love developing projects with teams and learning new interesting concepts.
 <br/>
 
-Other projects: https://github.com/Gattskii?tab=repositories
+Other projects: https://github.com/azhkanst?tab=repositories
 
 <br/>
 <br/>
